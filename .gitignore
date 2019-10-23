@@ -1,0 +1,19 @@
+# Игнорировать файл с расширением .sln в папке Application
+Application/*.sln
+# Игнорировать все файлы в папке Application/Debug
+Application/Debug/
+# Игнорировать все файлы в папке Application/Application/Debug
+Application/Application/Debug/
+# Игнорировать файл с расширением .vcxproj в папке Application/Application
+Application/Application/*.vcxproj
+# Игнорировать файл с расширением .vcxproj.filters в папке Application/Application
+Application/Application/*.vcxproj.filters
+# Игнорировать файл с расширением .vcxproj.user в папке Application/Application
+Application/Application/*.vcxproj.user
+# Игнорировать файл с расширением .h в папке Application/Application
+Application/Application/*.h
+# Игнорировать все файлы в папке Application/.vs
+Application/.vs/
+
+
+
